@@ -1,0 +1,7 @@
+From: no-reply@revolut-example.com   -> domain not revolut.com
+Return-Path: no-reply@revolut-example.com
+Received: origin IP 192.0.2.45 via suspicious-mailer.relay
+Authentication-Results: spf=fail; dkim=none; dmarc=fail
+Suspicious URL: http://revolut-verify.example.com/review
+Action: PHISHING - do not click links
+

@@ -1,0 +1,56 @@
+Return-Path: <no-reply@revolut-example.com>
+Received: from suspicious-mailer.relay (198.51.100.23) by mx.example.org with ESMTP id 12345ABC; Fri, 14 Nov 2025 10:22:33 +0000
+Received: from [192.0.2.45] (unknown [192.0.2.45]) by suspicious-mailer.relay (Postfix) with ESMTPSA id A1B2C3D4; Fri, 14 Nov 2025 10:21:50 +0000
+From: "Revolut" <no-reply@revolut-example.com>
+To: john.doe@example.com
+Subject: We've updated our terms and conditions
+Date: Fri, 14 Nov 2025 10:20:30 +0000
+Message-ID: <20251114102030.abcdef@mail.revolut-example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+Authentication-Results: mx.example.org; spf=fail (mx.example.org: domain of no-reply@revolut-example.com does not designate 198.51.100.23 as permitted sender) smtp.mailfrom=no-reply@revolut-example.com; dkim=none; dmarc=fail
+
+Revolut
+We've updated our terms and conditions
+
+Due to the nature of the changes, we require you to review them, or your account will remain suspended.
+Review the new T&Cs: http://revolut-verify.example.com/review
+
+Hi John,
+
+We’ve made some important updates to our Terms and Conditions, including support for transactions in over a dozen new countries. To comply with regulatory requirements, all users must review and accept the updated terms before continuing to use their accounts.
+
+What you need to do:
+
+Please review and accept the new Terms and Conditions by 16 Nov 2025.
+
+Until you do:
+
+    Your account will remain temporarily suspended
+    Any funds tied to the account will be unavailable
+
+Why is this happening?
+
+It's not just your account.
+
+As we expand internationally, we’re required to meet local regulatory and financial compliance obligations. That includes updating our terms and getting explicit user agreement before we can continue providing services in certain regions. These requirements come from banking partners, regulators, and international compliance frameworks—and unfortunately, we can’t make exceptions.
+
+
+Until each user has accepted the updated terms, we’re not legally able to allow account access or release funds.
+
+Review the new T&Cs: http://revolut-verify.example.com/review
+
+— Team Revolut
+
+ 
+© 2025 Revolut USA Inc.
+
+Revolut USA Inc. is a financial technology company and not a bank. Banking services are provided by Metropolitan Commercial Bank (Member FDIC), pursuant to a license from Mastercard International. Brokerage products and services are offered through Revolut Securities Inc., member FINRA/SIPC. Cryptocurrency services are provided by Revolut USA Inc. and are not FDIC or SIPC insured.
+
+Please review our Terms, Privacy Policy, and legal disclosures at www.revolut.com/en-US
+ to determine if our products and services are right for you.
+
+Any advice in this communication is general in nature, does not take into account your personal objectives, financial situation, or needs, and should not be relied upon as personal financial advice.
+Revolut
+
